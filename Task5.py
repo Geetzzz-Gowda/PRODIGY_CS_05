@@ -1,4 +1,5 @@
 #Network Packet Analyzer
+
 import scapy.all as scapy
 
 def sniff_packets(interface):
